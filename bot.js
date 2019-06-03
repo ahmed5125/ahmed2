@@ -32,13 +32,13 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === prefix+'مبلغ'){
-        message.channel.send('#credits')
+        message.channel.send('#credits @493035228936404993')
     }
 });
 
 client.on('message', message => {
     if(message.content === prefix+'ريب'){
-        message.channel.send("#rep "+"<@" + myid + ">")
+        message.channel.send("#rep "+"<@" + 483442787006676993 + ">")
     }
 });
 
@@ -83,13 +83,13 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === prefix+'مبلغ'){
-        message.channel.send('#credits')
+        message.channel.send('#credits @493035228936404993')
     }
 });
 
 client2.on('message', message => {
     if(message.content === prefix+'ريب'){
-        message.channel.send('#rep <@286088294234718209>')
+        message.channel.send('#rep <@483442787006676993>')
     }
 });
 
